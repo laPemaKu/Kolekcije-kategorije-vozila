@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije_Kategorije_vozila_xml.Form1.resources
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije_Kategorije_vozila_xml.Properties.Resources.resources
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.csproj.GenerateResource.cache
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\bin\Debug\Kolekcije-Kategorije_vozila_xml.exe.config
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\bin\Debug\Kolekcije-Kategorije_vozila_xml.exe
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\bin\Debug\Kolekcije-Kategorije_vozila_xml.pdb
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.exe
+C:\Users\Ucenik\Documents\Iva\Kolekcije-Kategorije_vozila_xml\obj\Debug\Kolekcije-Kategorije_vozila_xml.pdb
